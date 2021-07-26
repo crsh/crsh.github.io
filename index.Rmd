@@ -8,14 +8,14 @@ angle : 160
 
 links:
   - "<i class='ai ai-google-scholar ai-fw' style='font-size: 1.5em;'></i>": "https://scholar.google.de/citations?user=8pqcwFcAAAAJ"
-  # - "<i class='ai ai-orcid ai-2x ai-fw'></i>": "https://orcid.org/0000-0003-4900-788X"
+  - "<i class='ai ai-orcid ai-fw' style='font-size: 1.5em;'></i>": "https://orcid.org/0000-0003-4900-788X"
   - "<i class='ai ai-osf ai-fw' style='font-size: 1.5em;'></i>": "https://osf.io/zqedt/"
-  - "<i class='ai ai-publons ai-fw' style='font-size: 1.5em;'></i>": "https://publons.com/researcher/H-4495-2019"
+  - "<i class='ai ai-publons ai-fw' style='font-size: 1.5em;'></i>": "https://publons.com/researcher/604278/frederik-aust/peer-review/"
   - "<i class='fa fa-github ai-fw' style='font-size: 1.5em;'></i>": "https://github.com/crsh"
   - "<i class='fa fa-twitter ai-fw' style='font-size: 1.5em;'></i>": "https://twitter.com/frederikaust"
-  - "<i class='fa fa-envelope-o ai-fw' style='font-size: 1.5em;'></i>": "mailto:f.aust@uva.nl"
+  - "<i class='fa fa-envelope-o ai-fw' style='font-size: 1.25em;'></i>": "mailto:f.aust@uva.nl"
 
-output: postcards::jolla
+output: postcards::onola
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
@@ -23,4 +23,4 @@ output: postcards::jolla
 
 Hi, I'm a postdoctoral researcher in the Psychological Methods group at the University of Amsterdam.
 I develop and test mathematical models of human cognition using Bayesian statistics and try to improve the computational reproducibility of psychological science.
-I also develop R packages.
+I also create R packages.
