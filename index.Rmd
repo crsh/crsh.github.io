@@ -12,7 +12,7 @@ links:
   - "<i class='ai ai-osf ai-fw' style='font-size: 1.25em;'></i>": "https://osf.io/zqedt/"
   - "<i class='fa fa-github' style='font-size: 1.25em;'></i>": "https://github.com/crsh"
   - "<i class='fa fa-brands fa-mastodon' style='font-size: 1.25em;'></i>": "https://fediscience.org/\\@FrederikAust"
-  - "<i class='fa fa-(twitter' style='font-size: 1.25em;'></i>": "https://twitter.com/frederikaust"
+  - "<i class='fa fa-twitter' style='font-size: 1.25em;'></i>": "https://twitter.com/frederikaust"
   - "<i class='fa fa-linkedin' style='font-size: 1.25em;'></i>": "https://www.linkedin.com/in/frederik-aust"
   - "<i class='fa fa-envelope' style='font-size: 1em;'></i>": "mailto:f.aust@uva.nl"
 
