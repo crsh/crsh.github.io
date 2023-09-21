@@ -21,7 +21,7 @@ output: postcards::onola
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-Hi, I'm a postdoctoral researcher in the Psychological Methods group at the University of Amsterdam.
+Hi, I'm a postdoctoral researcher in the Research Methods and Experimental Psychology group at the University of Cologne.
 I develop and test mathematical models of human cognition using Bayesian statistics and try to improve the computational reproducibility of psychological science.
 I also create R packages.
 
